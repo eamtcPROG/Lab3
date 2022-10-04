@@ -1,6 +1,6 @@
 import java.time.LocalDate;
 
-public class Inventar {
+public class Inventar extends Filiala{
     private int nrInvantar;
     private LocalDate dataInstalare;
     private LocalDate dataDemontare;

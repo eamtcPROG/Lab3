@@ -1,4 +1,4 @@
-public class Raion {
+public class Raion extends Filiala{
     private String denumire;
 
     public String getDenumire() {

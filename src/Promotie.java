@@ -1,4 +1,4 @@
-public class Promotie {
+public class Promotie extends Filiala{
     private String denumire;
     private double promotie;
 
