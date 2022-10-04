@@ -1,2 +1,3 @@
 ﻿Lab3
-<img width="401" alt="Screenshot 2022-10-04 at 17 40 35" src="https://user-images.githubusercontent.com/61326560/193855866-e3261aea-4de3-4345-9ea6-94b056c88bf7.png">
+
+<img width="873" alt="Screenshot 2022-10-04 at 18 32 04" src="https://user-images.githubusercontent.com/61326560/193862653-ab3b74b9-b0f0-4bb8-98a7-3249a45267c4.png">
