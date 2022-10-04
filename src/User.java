@@ -1,4 +1,4 @@
-public class User {
+public class User extends Adresa{
     private String nume;
     private String prenume;
     private int varsta;
@@ -36,6 +36,9 @@ public class User {
         return idnp;
     }
 
+    public String getAdresa() {
+        return getDenumire();
+    }
     public void setIdnp(String idnp) {
         this.idnp = idnp;
     }

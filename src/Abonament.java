@@ -1,5 +1,5 @@
 import java.time.LocalDate;
-public class Abonament {
+public class Abonament extends Promotie{
     private int code;
     private String denumire;
     private LocalDate inceput;
@@ -17,7 +17,9 @@ public class Abonament {
     public String getDenumire() {
         return this.denumire;
     }
-
+    public String getPromotieName() {
+        return super.getDenumire();
+    }
     public void setDenumire(String denumire) {
         this.denumire = denumire;
     }
